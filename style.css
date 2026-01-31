@@ -29,6 +29,8 @@ footer{
     display: block;
     margin: 0 auto;
     padding: 0px 0px 0px 0px;
+    pointer-events: none;
+    user-select: none;
 }
 .list-chapter{
     display: flex;
